@@ -1,21 +1,24 @@
 # 📊 Procurement Analytics Dashboard (Power BI)
 
-1. Project Title / Headline
-2. 📦 Procurement Insights Dashboard: Purchase Orders & Quantity Analysis
-3. An interactive Power BI dashboard designed to analyze procurement data, track purchasing trends, and generate actionable insights on quantities, purchase values, and supplier activity.
+1.📦 Procurement Insights Dashboard: Purchase Orders & Quantity Analysis
+
+An interactive Power BI dashboard designed to analyze procurement data, track purchasing trends, and generate actionable insights on quantities, purchase values, and supplier activity.
 
 2. Short Description / Purpose
+   
 This dashboard provides a comprehensive view of procurement performance by analyzing total purchases, quantities, and purchase orders (POs). It helps stakeholders monitor trends, identify inefficiencies, and make data-driven sourcing decisions.
 
 
-3. Tech Stack
+4. Tech Stack
+   
 📊 Microsoft Power BI Desktop – Used for building the dashboard and interactive visuals
 📂 Power Query – Data cleaning, transformation, and preprocessing
 🧠 DAX (Data Analysis Expressions) – Created calculated measures like Total Qty, Total Purchases, and Total POs
 🔗 Data Modeling – Relationships between purchase orders, stock items, and date tables
 📁 File Formats – .pbix (dashboard), .png (preview)
 
-4. Data Source
+6. Data Source
+   
 Procurement dataset containing:
 Purchase Order IDs
 Purchase Keys
@@ -28,7 +31,8 @@ Time-based trend analysis
 Item-level breakdown
 Category-level insights
 
-5. Features / Highlights
+8. Features / Highlights
+   
 🔴 Business Problem
 
 Organizations generate massive procurement data, but lack a centralized and interactive way to:
