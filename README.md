@@ -105,4 +105,4 @@ Data-Driven Decisions: Enable stakeholders to act based on real-time insights
 
 6. Screenshots / Demo
 
-   ![Dashboard Preview](https://github.com/Harshalspage/Sales-assignment/commit/1c66bf73571d7530d70008f01aa190253c0b44f5)
+   ![Dashboard Preview](https://github.com/Harshalspage/Sales-assignment/blob/main/Procurement%20Analytics%20Dashboard.png)
